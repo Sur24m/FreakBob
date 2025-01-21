@@ -20,6 +20,7 @@ def papir11():
     global hrac1
     hrac1="papir"
 global hrac1
+global hrac2
 hrac1="pepa"
 hrac2="pepa"
 
